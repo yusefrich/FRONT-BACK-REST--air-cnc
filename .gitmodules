@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/yusefrich/PT--JS--omnistack-air-cnc
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/yusefrich/PT--MB--air-cnc
